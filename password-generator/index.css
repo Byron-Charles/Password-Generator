@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+  background: #1f2937;
+  padding: 20px;
+  color: #10b981;
+}
+
+span {
+  color: white;
+}
+
+button {
+  background: #10b981;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.passwords-div {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+hr {
+  color: #6b7280;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.password {
+  background: #2f3e53;
+  padding: 10px 25px;
+  border-radius: 5px;
+}
